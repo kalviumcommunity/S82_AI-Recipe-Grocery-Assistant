@@ -38,5 +38,4 @@ The AI Recipe & Grocery Assistant is a smart AI-powered assistant that:
 - **Storage (optional)**: MongoDB for user preferences or saved recipes
 
 
-##  Project Structure
 
