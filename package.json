@@ -1,4 +1,26 @@
 {
-  "type":"module"
-  
+  "type": "module",
+  "name": "ai_recipe",
+  "version": "1.0.0",
+  "description": "An intelligent kitchen companion that helps users cook delicious meals using available ingredients, generates grocery lists, provides nutritional information, and supports dietary preferences — all powered by prompt engineering, function calling, structured outputs, and Retrieval-Augmented Generation (RAG).",
+  "main": "testRecipeGrocery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/AI-Recipe-Grocery-Assistant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/AI-Recipe-Grocery-Assistant/issues"
+  },
+  "homepage": "https://github.com/kalviumcommunity/AI-Recipe-Grocery-Assistant#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^17.2.1",
+    "openai": "^5.12.2"
+  }
 }
