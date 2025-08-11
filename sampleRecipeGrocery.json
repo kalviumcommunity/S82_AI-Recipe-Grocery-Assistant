@@ -1,0 +1,32 @@
+{
+    "recipe_name": "Banana Smoothie",
+    "ingredients": [
+        "2 ripe bananas",
+        "1 cup milk",
+        "1/2 cup Greek yogurt",
+        "1 tbsp honey",
+        "1/4 tsp cinnamon",
+        "Ice cubes (optional)"
+    ],
+    "instructions": [
+        "Peel and slice the bananas.",
+        "Add bananas, milk, Greek yogurt, honey, and cinnamon to a blender.",
+        "Blend until smooth and creamy.",
+        "Add ice cubes if desired and blend again.",
+        "Pour into glasses and serve immediately."
+    ],
+    "missing_ingredients": [
+        "Greek yogurt",
+        "Honey"
+    ],
+    "nutrition_info": {
+        "calories": 210,
+        "protein": "8g",
+        "carbohydrates": "40g",
+        "fat": "3g",
+        "fiber": "4g"
+    }
+
+  }
+
+ 
